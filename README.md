@@ -17,12 +17,4 @@ Data analysis & visualization using Python – and having fun turning raw data i
 
 ---
 
-### 🔍 What I'm Working On
-```python
-projects = [
-  "Customer Segmentation with K-Means",
-  "Sales Dashboard using Pandas & Matplotlib",
-  "Product Review Sentiment Analysis",
-  "Customer Churn Prediction Model",
-  "Data Cleaning & EDA Automation"
-]
+
