@@ -7,7 +7,8 @@ _Aspiring Data Analyst • Public Sector Accounting Student • Tech-Driven Prob
 Data analysis & visualization using Python – and having fun turning raw data into meaningful insights!
 
 💻 **Tools I Work With**:  
-`Python` | `Pandas` | `NumPy` | `Seaborn` | `Matplotlib` | `Scikit-learn` | `Jupyter Notebook` | `Google Colab` | `Excel` | `Canva`
+`Python` | `Pandas` | `NumPy` | `Seaborn` | `Matplotlib` | `Scikit-learn` | `Jupyter Notebook` | `Google Colab` | `Excel` | `Canva` | `EDA` | `Data Cleaning` | `Data Visualization` | `Clustering` | `K-Means` | `Customer Segmentation` | `Customer Churn` | `Dashboarding` | `Sentiment Analysis` | `Text Preprocessing` | `NLP` | `TF-IDF` | `N-grams` | `LDA Topic Modeling`
+
 
 📊 **I Love Doing**:  
 - Cleaning messy data (yes, really!)  
